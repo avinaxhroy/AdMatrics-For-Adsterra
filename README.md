@@ -1,4 +1,4 @@
-# AdMetrics for macOS
+# AdMetrics for Adsterra(macOS)
 
 Beautiful macOS app and widgets to monitor your Adsterra earnings in real-time.
 
