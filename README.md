@@ -29,8 +29,6 @@ Beautiful macOS app and widgets to monitor your Adsterra earnings in real-time.
 - Responsive layouts for all widget sizes
 
 🔒 **Secure & Private**
-- Credentials stored securely in macOS Keychain
-- OAuth 2.0 authentication
 - No data shared with third parties
 - Local-only data processing
 
