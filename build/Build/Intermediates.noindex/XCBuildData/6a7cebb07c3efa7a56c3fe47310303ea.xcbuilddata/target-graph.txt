@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'AdMetrics' in project 'AdMetrics'
+➜ Explicit dependency on target 'AdMetricsWidgetExtension' in project 'AdMetrics'
+➜ Explicit dependency on target 'AdMetricsShared' in project 'AdMetricsShared'
+Target 'AdMetricsWidgetExtension' in project 'AdMetrics'
+➜ Explicit dependency on target 'AdMetricsShared' in project 'AdMetricsShared'
+Target 'AdMetricsShared' in project 'AdMetricsShared'
+➜ Explicit dependency on target 'AdMetricsShared' in project 'AdMetricsShared'
+Target 'AdMetricsShared' in project 'AdMetricsShared' (no dependencies)

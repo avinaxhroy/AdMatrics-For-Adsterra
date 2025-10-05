@@ -1,0 +1,368 @@
+{
+  "source": "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove API Token?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "This will remove your API token and clear all cached data. Your widgets will stop working.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your API token is securely stored in Keychain and never leaves your device.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Authentication",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Token",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "••••••••••••••••",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove Token",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Token",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paste your API token",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 601
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Token",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Balance Tracking",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account Balance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "Earned since %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 209
+        }
+      },
+      {
+        "comment": "",
+        "key": "7-Day Total",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minimum Payout",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 243
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payout Eligibility",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minimum %@ required",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "Earn %@ more to reach minimum payout",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 279
+        }
+      },
+      {
+        "comment": "",
+        "key": "✓ Balance meets minimum payout threshold!",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next Payout",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 303
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Settings",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 331
+        }
+      },
+      {
+        "comment": "",
+        "key": "Record Payout",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 347
+        }
+      },
+      {
+        "comment": "",
+        "key": "Widget Settings",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 368
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 382
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh Interval",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "How often widgets update",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 377
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 404
+        }
+      },
+      {
+        "comment": "",
+        "key": "Widget Theme",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "Visual style for widgets",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 399
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 425
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last Update",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 431
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh Now",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 448
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Cache",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 469
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 488
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 493
+        }
+      },
+      {
+        "comment": "",
+        "key": "1.0.0",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 496
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Documentation",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 506
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get API Token",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 522
+        }
+      }
+    ]
+  },
+  "version": 1
+}

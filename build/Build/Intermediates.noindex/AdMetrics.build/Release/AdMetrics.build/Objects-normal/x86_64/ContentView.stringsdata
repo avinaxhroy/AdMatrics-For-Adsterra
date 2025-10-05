@@ -1,0 +1,104 @@
+{
+  "source": "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "AdMetrics",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Updated %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "7-Day Revenue Trend",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Top Placements",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld impr",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Data Available",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 416
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pull to refresh or check your internet connection",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh Now",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 425
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 447
+        }
+      }
+    ]
+  },
+  "version": 1
+}

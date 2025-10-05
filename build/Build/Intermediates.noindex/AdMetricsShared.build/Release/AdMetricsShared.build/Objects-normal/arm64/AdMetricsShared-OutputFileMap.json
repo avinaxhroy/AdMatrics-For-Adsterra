@@ -1,0 +1,31 @@
+{
+  "" : {
+    "const-values" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.swiftconstvalues",
+    "dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.d",
+    "diagnostics" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.dia",
+    "emit-module-dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary-emit-module.dia",
+    "pch" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.swiftdeps"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift" : {
+    "index-unit-output-path" : "/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/WidgetData.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/WidgetData.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/WidgetData.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/CacheService.swift" : {
+    "index-unit-output-path" : "/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/CacheService.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/CacheService.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/CacheService.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/SharedDataManager.swift" : {
+    "index-unit-output-path" : "/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/SharedDataManager.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/SharedDataManager.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/SharedDataManager.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Utilities/FormatHelpers.swift" : {
+    "index-unit-output-path" : "/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/FormatHelpers.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/FormatHelpers.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/FormatHelpers.o"
+  }
+}

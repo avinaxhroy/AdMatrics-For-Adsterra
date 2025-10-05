@@ -1,0 +1,56 @@
+{
+  "source": "/Users/avinash/Documents/AdMetrics/AdMetricsWidget/AdMetricsWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Balance",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "View your account balance and today's earnings",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 145
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Stats",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Balance, revenue, and key metrics",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dashboard",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "Complete stats with trends and top placements",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 201
+        }
+      }
+    ]
+  },
+  "version": 1
+}

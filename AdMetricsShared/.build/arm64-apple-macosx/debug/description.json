@@ -1,0 +1,286 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AdMetricsShared-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/sources",
+      "importPath" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/CacheService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/SharedDataManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Utilities/FormatHelpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AdMetricsShared",
+      "moduleOutputPath" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/Modules/AdMetricsShared.swiftmodule",
+      "objects" : [
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData.swift.o",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService.swift.o",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager.swift.o",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/include/AdMetricsShared-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-enable-experimental-feature",
+        "StrictConcurrency",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "admetricsshared"
+      ],
+      "outputFileMapPath" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/Modules/AdMetricsShared.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/CacheService.swift",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/SharedDataManager.swift",
+        "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Utilities/FormatHelpers.swift"
+      ],
+      "tempsPath" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AdMetricsShared" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AdMetricsShared",
+      "-package-name",
+      "admetricsshared",
+      "-c",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/CacheService.swift",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/SharedDataManager.swift",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Utilities/FormatHelpers.swift",
+      "-I",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/include/AdMetricsShared-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-enable-experimental-feature",
+      "StrictConcurrency",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "admetricsshared",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AdMetricsShared" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/CacheService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/SharedDataManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Utilities/FormatHelpers.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/sources"
+    },
+    "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

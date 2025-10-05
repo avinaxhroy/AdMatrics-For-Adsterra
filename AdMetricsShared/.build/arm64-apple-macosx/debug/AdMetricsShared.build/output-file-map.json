@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/master.swiftdeps"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift": {
+    "dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData.d",
+    "object": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData.swift.o",
+    "swiftmodule": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData~partial.swiftmodule",
+    "swift-dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData.swiftdeps",
+    "diagnostics": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/WidgetData.dia"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/CacheService.swift": {
+    "dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService.d",
+    "object": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService.swift.o",
+    "swiftmodule": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService~partial.swiftmodule",
+    "swift-dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService.swiftdeps",
+    "diagnostics": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/CacheService.dia"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Services/SharedDataManager.swift": {
+    "dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager.d",
+    "object": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager.swift.o",
+    "swiftmodule": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager.swiftdeps",
+    "diagnostics": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/SharedDataManager.dia"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Utilities/FormatHelpers.swift": {
+    "dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers.d",
+    "object": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers.swift.o",
+    "swiftmodule": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers.swiftdeps",
+    "diagnostics": "/Users/avinash/Documents/AdMetrics/AdMetricsShared/.build/arm64-apple-macosx/debug/AdMetricsShared.build/FormatHelpers.dia"
+  }
+}

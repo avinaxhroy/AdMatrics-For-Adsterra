@@ -1,0 +1,12 @@
+{
+  "/Users/avinash/Documents/AdMetrics/AdMetricsShared/Sources/AdMetricsShared/Models/WidgetData.swift" : {
+    "abi-baseline-json" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared.abi.json",
+    "const-values" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.swiftconstvalues",
+    "dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.d",
+    "diagnostics" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-primary.dia",
+    "objc-header" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared-Swift.h",
+    "swiftdoc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared.swiftdoc",
+    "swiftmodule" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared.swiftmodule",
+    "swiftsourceinfo" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetricsShared.build/Release/AdMetricsShared.build/Objects-normal/arm64/AdMetricsShared.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,4 @@
+module AdMetricsShared {
+header "AdMetricsShared-Swift.h"
+export *
+}

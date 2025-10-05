@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>A935D780-33EF-4CF0-8C09-4229452AB115</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A935D780-33EF-4CF0-8C09-4229452AB115.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AdMetrics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AdMetrics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Cleaning project AdMetrics with scheme AdMetrics and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>781320611.97706795</real>
+			<key>timeStoppedRecording</key>
+			<real>781320612.193892</real>
+			<key>title</key>
+			<string>Cleaning project AdMetrics with scheme AdMetrics and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>A935D780-33EF-4CF0-8C09-4229452AB115</string>
+		</dict>
+		<key>F0962567-D417-485D-84E3-8BC085E45302</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0962567-D417-485D-84E3-8BC085E45302.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AdMetrics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AdMetrics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Cleaning project AdMetrics with scheme AdMetrics and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>781321127.893273</real>
+			<key>timeStoppedRecording</key>
+			<real>781321128.06502402</real>
+			<key>title</key>
+			<string>Cleaning project AdMetrics with scheme AdMetrics and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>F0962567-D417-485D-84E3-8BC085E45302</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

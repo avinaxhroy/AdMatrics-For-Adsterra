@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "admetricsshared",
+          "kind" : "fileSystem",
+          "location" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared",
+          "name" : "AdMetricsShared"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/avinash/Documents/AdMetrics/AdMetricsShared"
+        },
+        "subpath" : "admetricsshared"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

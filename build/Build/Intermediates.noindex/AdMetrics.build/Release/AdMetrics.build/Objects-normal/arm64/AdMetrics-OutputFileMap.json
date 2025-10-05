@@ -1,0 +1,91 @@
+{
+  "" : {
+    "const-values" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary.swiftconstvalues",
+    "dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary.d",
+    "diagnostics" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary.dia",
+    "emit-module-dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary-emit-module.dia",
+    "pch" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetrics-primary.swiftdeps"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/AdMetricsApp.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetricsApp.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetricsApp.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdMetricsApp.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Services/AdsterraAPIService.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdsterraAPIService.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdsterraAPIService.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdsterraAPIService.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Services/BalanceSettings.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/BalanceSettings.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/BalanceSettings.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/BalanceSettings.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Services/KeychainService.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/KeychainService.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/KeychainService.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/KeychainService.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Shared/Models/AdsterraStats.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdsterraStats.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdsterraStats.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/AdsterraStats.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/BalanceSetupView.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/BalanceSetupView.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/BalanceSetupView.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/BalanceSetupView.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/ContentView.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/OnboardingView.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/OnboardingView.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/PayoutPromptView.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/PayoutPromptView.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/PayoutPromptView.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/PayoutPromptView.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/AdMetrics/Views/SettingsView.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/Shared/Models/WidgetData.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/WidgetData.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/WidgetData.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/WidgetData.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/Shared/Services/CacheService.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/CacheService.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/CacheService.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/CacheService.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/Shared/Services/SharedDataManager.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SharedDataManager.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SharedDataManager.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SharedDataManager.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/Shared/Services/SharedFileStorage.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SharedFileStorage.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SharedFileStorage.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/SharedFileStorage.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/Shared/Utilities/FormatHelpers.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/FormatHelpers.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/FormatHelpers.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/FormatHelpers.o"
+  },
+  "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/avinash/Documents/AdMetrics/build/Build/Intermediates.noindex/AdMetrics.build/Release/AdMetrics.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
