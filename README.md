@@ -1,6 +1,6 @@
 # AdMetrics for macOS
 
-Beautiful macOS app and widgets to monitor your Google AdSense earnings in real-time.
+Beautiful macOS app and widgets to monitor your Adsterra earnings in real-time.
 
 ![AdMetrics Widgets](https://img.shields.io/badge/macOS-14.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
@@ -16,7 +16,7 @@ Beautiful macOS app and widgets to monitor your Google AdSense earnings in real-
 - Detailed stats dashboard (Large widget)
 
 📊 **Real-time Monitoring**
-- Live Google AdSense data
+- Live Adsterra data
 - Today's earnings with visual indicator
 - Impressions, clicks, and CPM tracking
 - Weekly revenue overview
@@ -57,7 +57,7 @@ Beautiful macOS app and widgets to monitor your Google AdSense earnings in real-
    ```
 
 3. Follow the on-screen instructions to:
-   - Set up Google AdSense API credentials
+   - Set up Adsterra API credentials
    - Configure your account
    - Add widgets to your desktop
 
@@ -81,23 +81,16 @@ Beautiful macOS app and widgets to monitor your Google AdSense earnings in real-
 
 ## Setup
 
-### Google AdSense API Setup
+### Adsterra API Setup
 
-1. **Create a Google Cloud Project:**
-   - Go to [Google Cloud Console](https://console.cloud.google.com/)
-   - Create a new project
-   - Enable the AdSense Management API
+1. **Get Adsterra API:**
+   - Go to [Adsterra Publisher Dashboard](https://beta.publishers.adsterra.com/api-token)
+   - Copy Adsterra API
 
-2. **Create OAuth 2.0 Credentials:**
-   - Go to "Credentials" → "Create Credentials" → "OAuth Client ID"
-   - Application type: "Desktop app"
-   - Download the JSON file
-
-3. **Configure AdMetrics:**
+2. **Configure AdMetrics:**
    - Open AdMetrics app
    - Go to Settings
-   - Upload your OAuth credentials JSON
-   - Complete the authentication flow
+   - Enter API Token
 
 4. **Add Widgets:**
    - Click the date/time in menu bar
@@ -127,8 +120,7 @@ Beautiful macOS app and widgets to monitor your Google AdSense earnings in real-
 
 - **macOS 14.0+** (Sonoma or later)
 - **Xcode 15.0+** (for building from source)
-- **Active Google AdSense Account**
-- **Google Cloud Project** with AdSense API enabled
+- **Active Adsterra Account**
 
 ## Project Structure
 
@@ -216,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Built with SwiftUI and WidgetKit
-- Uses Google AdSense Management API
+- Uses Adsterra API
 - Inspired by the need for beautiful macOS widgets
 
 ## Support
@@ -227,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
 
-- [ ] Support for multiple AdSense accounts
+- [ ] Support for multiple Adsterra accounts
 - [ ] Customizable widget themes
 - [ ] Export data to CSV
 - [ ] Monthly/yearly reports
